@@ -1,6 +1,4 @@
 # Readme-md-generator
-
-# readme-md-generator
 CLI that generates beautiful READ.md files
 # Welcome to readme-md-generator 👋 
 
